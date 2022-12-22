@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi, my name is Thomas and if you read my bio, I am currently a third year MPhys student doing my physics degree in the University of Manchester. I chose physics simply because I love the logical and experimental thinking in investigating the physical phenomena around us, 
+thus developing an idea based on our foundings.
+Currently, my interests are in condensed matter field, particularly aspects in quantum information theory and structures in semiconductors and superconductors. The exciting potential in building powerful techs such as quantum computers based from these relevant ideas are what attracted to me to this area. I envision that I can work in a related research in the future.
+
+
+Here are a list of selected Experiments I have done which I find interesting.
+
 <!--
 **ThomasChanbawsu/ThomasChanBawsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
