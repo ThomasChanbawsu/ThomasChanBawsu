@@ -26,6 +26,13 @@ Here, I have acquired certain valuable data analysis skills which may prove to b
 I have also learned using the ROOT documentation in this experiment which is a documentation provided for particle physicist in this standard age to process and plot their histogram data of the detections of particles they received in their detectors.
 This experiment certainly helped me improve my data analysis skills as well as challenged my computing skills.
 
+### Ultrasonics by Magnetostriction
+
+Magnetostriction is the phenomenon where a ferromagnetic material experiences changes in dimension when it is magnetized. Utilizing this, ultrasonic waves can be transmitted along the material by running a pulse of a.c current through it. In this experiment, the attenuation coefficient and speed of sound in a nickel rod was measured using this property.
+Two methods were used including the continuous wave method and pulse method. The former method sets a suitable resonant frequency through the rod, until it matches the natural frequency of the rod (or harmonics of it), creating a resonance of the signals. The latter method involves sending a short pulse of ultrasonic wave through the rod until it decays completely due to the attenuation.
+
+During this process, a python script was written to compute the graph of the amplitude over frequency to measure the Q factor. a fitting code was also written to put a fourier peak fit on our data, which estimate the peak frequency and half-width to great precision.
+
 
 <!--
 **ThomasChanbawsu/ThomasChanBawsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
